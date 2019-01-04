@@ -4,7 +4,7 @@
 Theme for your prefered Editor < gtksourceview > based( like mousepad, Pluma, and others.. ).  
 Based on the Cobalt Theme by Will Farrington, adapted for better readability..
 
-Very nice for example Lua laguage,C, and Others..
+Very nice, for example, Lua, C/C++, Shell Scripting, and Other Languages..
 
 #### Install
 Copy ilynx.xml, to gtksourceview-3.0 styles folder
