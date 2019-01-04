@@ -2,7 +2,7 @@
 ### Editor Themes
 
 Theme for your prefered Editor < gtksourceview > based( like mousepad, Pluma, and others.. )
-Based in the cobalt theme...
+Based on the Cobalt Theme by Will Farrington, adapted for better readability..
 
 Very nice for example Lua laguage,C, and Others..
 
@@ -12,6 +12,7 @@ Copy ilynx.xml, to gtksourceview-3.0 styles folder
    cd path/to/file
    cp ilynx.xml /usr/share/gtksourceview-3.0/styles
    ```
-2. Go into your prefered Text Editor and select iLynx, has a theme..
+2. Go into your preferred Text Editor and select iLynx, has a theme..
+   If already Opened, you need to restart Text Editor..
 
 That's it!!
