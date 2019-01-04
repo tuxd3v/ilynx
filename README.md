@@ -1,7 +1,7 @@
 # ilynx
 Editor Themes
 
-Theme for textEditor gtksourceview based, like mousepad, Pluma, and others..
+Theme for your prefered Editor < gtksourceview > based( like mousepad, Pluma, and others.. )
 Based in the cobalt theme...
 
 Very nice for example Lua laguage,C, and Others..
