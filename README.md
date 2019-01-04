@@ -12,7 +12,7 @@ Copy ilynx.xml, to gtksourceview-3.0 styles folder
    cd path/to/file
    cp ilynx.xml /usr/share/gtksourceview-3.0/styles
    ```
-2. Go into your preferred Text Editor and select iLynx, has a theme..
+2. Go into your preferred Text Editor and select iLynx, has a theme..  
    If already Opened, you need to restart Text Editor..
 
 That's it!!
