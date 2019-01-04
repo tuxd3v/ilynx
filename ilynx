@@ -1,0 +1,7 @@
+
+
+Theme for textEditor, like mousepad,based in cobalt theme...
+Very nice for example Lua laguage and Others..
+
+Copy ilynx.xml, to:
+/usr/share/gtksourceview-3.0/styles/
