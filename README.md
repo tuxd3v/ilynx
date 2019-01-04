@@ -1,11 +1,14 @@
 # ilynx
-Editor Themes
+### Editor Themes
 
 Theme for your prefered Editor < gtksourceview > based( like mousepad, Pluma, and others.. )
 Based in the cobalt theme...
 
 Very nice for example Lua laguage,C, and Others..
 
-Copy ilynx.xml, to:
-/usr/share/gtksourceview-3.0/styles
-
+#### Install
+Copy ilynx.xml, to /usr/share/gtksourceview-3.0/styles
+```bash
+cd path/to/file
+cp ilynx.xml /usr/share/gtksourceview-3.0/styles
+```
